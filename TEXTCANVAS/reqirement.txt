@@ -1,0 +1,5 @@
+Install Flask and the necessary libraries
+pip install Flask transformers torch diffusers
+
+Running the Application
+Run the Flask app:   python app.py
